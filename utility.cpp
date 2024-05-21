@@ -83,7 +83,7 @@ public:
         cout << "Your Divition is : " << divition << endl;
         cout << "Your current place is : " << currentPlace << endl;
         cout << paymentname << endl;
-        cout << "Your amount: ";
+        cout << "Your amount: ",taka<<endl;
 
         cout << "Phone Number : " << phoneNumber << endl;
         cout << "Payment Number : " << paymentNumber << endl
